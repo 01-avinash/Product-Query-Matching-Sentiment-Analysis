@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+vaderSentiment
+Re
+Math
+Numpy
